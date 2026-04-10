@@ -54,7 +54,7 @@ const ClosingSection = () => {
           <div className="ornamental-divider my-4">
             <span className="text-gold text-xs">✦</span>
           </div>
-          <p className="text-muted-foreground font-body text-xs tracking-[0.3em] uppercase">May 2025</p>
+          <p className="text-muted-foreground font-body text-xs tracking-[0.3em] uppercase">May 2026</p>
         </div>
       </motion.div>
     </section>
