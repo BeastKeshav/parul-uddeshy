@@ -52,6 +52,7 @@ export default {
         ivory: "hsl(var(--ivory))",
         gold: "hsl(var(--gold))",
         peach: "hsl(var(--peach))",
+        champagne: "hsl(var(--champagne))",
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
           foreground: "hsl(var(--sidebar-foreground))",
@@ -66,6 +67,7 @@ export default {
       fontFamily: {
         heading: ['Cormorant Garamond', 'serif'],
         body: ['DM Sans', 'sans-serif'],
+        script: ['Great Vibes', 'cursive'],
       },
       borderRadius: {
         lg: "var(--radius)",
